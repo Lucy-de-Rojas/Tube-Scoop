@@ -4,7 +4,7 @@
 <p style="font-size:150%; font-style:italic;color:yellow;">The Tube. Now in a Cone.</p>
 </div>
 
-<br/><br/>
+<br/>
 <!-- image: -->
 <div align="center"><img src="./TubeScoop.png" alt="TubeScoop Logo" width="100"/></div>
 <br/><br/>
