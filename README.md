@@ -22,7 +22,7 @@
 
 <br/><br/>
 
-# Using TubeScoop:
+# Using TubeScoop for single video download:
 1. Open Powershell terminal
 1. : cd into folder with the files: `download_and_convert_ONE.ps1`, `yt-dlp.exe`
 ```powershell
@@ -39,7 +39,7 @@
 
 <br/><br/>
 <!-- multiple downloads: -->
-<h1>Using multiple downloads:</h1>
+# Using TubeScoop for multiple video downloads:
 
 1.
 Edit file `download_MULTIPLES.ps1`: adding your own LINKS and ABSOLUTE PATH to your `download_MULTIPLES.ps1` file. Highlighted with 🔴🔴🔴.
