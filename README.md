@@ -7,7 +7,7 @@
 <br/>
 
 <!-- image: -->
-<div align="center"><img src="./TubeScoop.png" alt="TubeScoop Logo" width="5%"/></div>
+<div align="center"><img src="./TubeScoop.png" alt="TubeScoop Logo" width="15%"/></div>
 <br/><br/>
 <p align="center">Use Powershell script to <span style="font-size:200%; ">download youtube video</span> of your choice.</p>
 
