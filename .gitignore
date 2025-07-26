@@ -1,0 +1,14 @@
+Jen Pocej mp4/
+Krtecek  mp4/
+webm Files/
+Try/
+Text files/
+mkv Files/
+
+*.mp4
+*.mkv
+*.webm
+
+allowFileDelete.ps1
+jenPockej.txt
+krtecekLINKS.txt
