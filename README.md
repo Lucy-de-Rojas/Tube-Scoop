@@ -37,3 +37,17 @@
 
 
 
+
+<h1>Using multiple downloads:</h1>
+
+1.
+Edit file `download_MULTIPLES.ps1`: adding your own LINKS and ABSOLUTE PATH to your `download_MULTIPLES.ps1` file. Highlighted with 🔴🔴🔴.
+
+2. Open Powershell
+
+3. Run the file from Powershell:
+```
+> ./download_MULTIPLES.ps1
+```
+
+4. Your files should be in the folder. Enjoy!1️⃣
