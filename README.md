@@ -1,13 +1,14 @@
 
 <div align="center">
-<h1> Welcome to TubeScoop youtube mp4 downloader!</h1>
+<h1> Welcome to TubeScoop!</h1>
 <p style="font-size:150%; font-style:italic;color:yellow;">The Tube. Now in a Cone.</p>
 </div>
 
 <!-- image: -->
 <div align="center"><img src="./TubeScoop.png" alt="TubeScoop Logo" width="100"/></div>
 <br/><br/>
-<p align="center">Use Powershell script to download youtube video of your choice.</p>
+<p align="center">Use Powershell script to <span style="font-size:200%; ">download youtube video</span> of your choice.</p>
+
 
 <br/><br/>
 
