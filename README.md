@@ -1,7 +1,7 @@
 
 <div align="center">
 <h1> Welcome to TubeScoop!</h1>
-<p style="font-size:60px; font-style:italic;color:yellow;">The Tube. Now in a Cone.</p>
+<p>The Tube. Now in a Cone.</p>
 </div>
 
 <br/>
@@ -19,7 +19,7 @@
 3. Add the path to the ffmpeg folder to your system's environment variables:
 🪟 > type: "Environment" > Environment Variables > User Variables > Path > Edit > New > Full/Link/to/ffmpeg/folder/HERE/Pasted > OK
 
-<br/><br/><br/>
+<br/><br/>
 
 # Using TubeScoop:
 1. Open Powershell terminal
