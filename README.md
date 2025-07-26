@@ -33,11 +33,5 @@
 
 4. Your video should be in this folder after the download. Enjoy!
 
-<br/>
-<hr />
-<hr />
-<hr />
-
-
 
 
