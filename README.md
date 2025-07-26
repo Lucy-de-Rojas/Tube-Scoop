@@ -1,7 +1,7 @@
 
 <div align="center">
 <h1> Welcome to TubeScoop!</h1>
-<p style="font-size:150%; font-style:italic;color:yellow;">The Tube. Now in a Cone.</p>
+<p style="font-size:60px; font-style:italic;color:yellow;">The Tube. Now in a Cone.</p>
 </div>
 
 <br/>
