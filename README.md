@@ -50,4 +50,4 @@ Edit file `download_MULTIPLES.ps1`: adding your own LINKS and ABSOLUTE PATH to y
 > ./download_MULTIPLES.ps1
 ```
 
-4. Your files should be in the folder. Enjoy!1️⃣
+4️⃣ Your files should be in the folder. Enjoy!1️
